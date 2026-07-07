@@ -45,9 +45,6 @@ Business idea
  Business plan (7 sections, disclaimers, downloadable PDF)
 ```
 
-Full write-up of the architecture, design decisions, and two debugging
-deep-dives (a hidden Automatic Function Calling bug, and fixing shallow
-multi-agent consensus) is in the [Kaggle Writeup](#) and `docs/`.
 
 ## Stack
 
