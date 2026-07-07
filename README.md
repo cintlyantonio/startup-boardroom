@@ -143,8 +143,4 @@ sequential Gemini API calls (parallel analysis, debate, synthesis).
 - Debate quality is currently validated through targeted manual test runs
   rather than an automated evaluation harness
 
-See the [Kaggle Writeup](#) for the full list of next steps.
 
-## License
-
-[Add your preferred license here, e.g. MIT]
