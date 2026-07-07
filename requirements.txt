@@ -1,0 +1,9 @@
+google-genai
+fastapi
+uvicorn
+python-dotenv
+pydantic
+xhtml2pdf
+pytest
+pytest-asyncio
+markdown
